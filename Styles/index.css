@@ -96,3 +96,7 @@
     background-color: #A9A9A9;
 }
 
+.buttons > *:active{
+    width: 65px;
+    height: 60px;
+}
